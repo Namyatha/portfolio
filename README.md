@@ -24,4 +24,3 @@ You can view the live website here: [https://namyatha.github.io/portfolio/](http
 - **IoT Smart Waste Management:** Hardware-software integration using Arduino.
 
 ---
-*Developed by Namyatha S*
